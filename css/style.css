@@ -1,0 +1,131 @@
+body {
+    background-color: rgb(191, 236, 233);
+    font-family: "DFKai-SB", "LiHei Pro", "Helvetica"
+}
+
+.title {
+    background-color: rgb(47, 44, 214);
+    color: rgb(201, 232, 235);
+    font-size: 32px;
+    border-radius: 12px;
+    margin: ;
+    padding: 8px;
+}
+
+.sub-title {
+    display: inline-block;
+    background-color: #44516f;
+    color: #fff;
+    border-radius: 0.3rem;
+    margin: 20px auto;
+    text-align: center;
+}
+
+#container {
+    width: 80%;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.text-1 {
+    font-size: 24px;
+    font-weight: bold;
+    padding: 0px 20px;
+}
+
+.text-2 {
+    background-color: tomato;
+    color: yellow;
+    padding: 10px;
+    border: 2px salmon solid;
+}
+
+text-3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0 1rem;
+}
+
+.text-4 {
+    border: 2px rgb(9, 8, 20) solid;
+    background-color: rgb(66, 125, 235);
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1rem;
+    padding: 5px;
+}
+
+.text-5 {
+    border: 2px;
+    text-align: left;
+}
+
+#picture {
+    text-align: center;
+}
+
+#picture img {
+    border-radius: 0.2rem;
+    margin: 0 6px;
+}
+
+#good-link a {
+    font-size: larger;
+    text-decoration: none;
+    color: rgb(99, 10, 0);
+}
+
+table {
+    width: 90%;
+    margin: 10px auto;
+    height: 200px;
+}
+
+table th {
+    font-weight: 100;
+    background-color: rgb(66, 125, 235);
+    color: white;
+}
+
+tr {
+    background-color: wheat;
+}
+
+td:first-child {
+    background-color: rgb(66, 125, 235);
+}
+
+input,
+button,
+textarea {
+    font-size: 20px;
+    padding: 10px;
+}
+
+.video {
+    background-color: thistle;
+    text-align: center;
+    padding: 20px 0;
+}
+
+input,
+label,
+textarea {
+    font-size: 1rem;
+    padding: 10px;
+}
+
+button {
+    background-color: tomato;
+    font-size: 24px;
+    margin-top: 1rem;
+    padding: 0 0.8rem;
+}
+
+form {
+    margin: 2rem;
+    padding: 2rem;
+    background-color: rgb(243, 200, 192);
+    border-radius: 0.5rem;
+}
+
+</div>
